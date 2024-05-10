@@ -34,7 +34,7 @@ In this photo, the arrow shows the probability of losing with a single bet, as e
 ![image1](https://i.ibb.co/rH2FF6b/image.png)
 
 And this photo with a larger scale, the probability of losing decreases exponentially. The probability of losing 7 times is less than 0.5% (with the 7th bet, you would have sent 128 TON to the contract)
-![image2](https://i.ibb.co/Gv8q4Qb/image.png)
+![image2](https://i.ibb.co/vLKCxmt/image.png)
 
 ### Why is that?
 

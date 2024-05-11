@@ -71,7 +71,5 @@ Taiga Labs
 
 ## Логи
 
-![](/home/zpnst/Downloads/logs.gif)
-
 <img2 src="https://github.com/taiga-labs/jackpot-cracking/assets/105946529/06e57a02-11b4-4bb2-98cd-a8c823ed91c2" width="200" height="200">
 

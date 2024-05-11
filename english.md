@@ -70,5 +70,3 @@ Thank you for your attention,
 Taiga Labs
 
 ## Logs
-
-<img src="https://github.com/taiga-labs/jackpot-cracking/assets/105946529/27e0d2d7-bdbb-4cf0-b90c-01e98b7dd057" width="200" height="200">

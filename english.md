@@ -63,6 +63,11 @@ It was like a series of victories,
 so the moments are more dangerous...
 ![image6](https://i.ibb.co/T18xH6j/image.png)
 
+It is important to understand that the more money on the balance sheet, the higher the probability of not losing your investments, that is, the more likely it is to get out of a series of failures.
+
+Thank you for your attention, 
+Taiga Labs
+
 ## Logs
 
 [iteration: 1/100]---------------------------------------------------------------------

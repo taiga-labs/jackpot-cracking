@@ -71,4 +71,4 @@ Taiga Labs
 
 ## Logs
 
-<img2 src="https://github.com/taiga-labs/jackpot-cracking/assets/105946529/06e57a02-11b4-4bb2-98cd-a8c823ed91c2" width="200" height="200">
+<img2 src="![image](https://github.com/taiga-labs/jackpot-cracking/assets/105946529/27e0d2d7-bdbb-4cf0-b90c-01e98b7dd057)" width="200" height="200">

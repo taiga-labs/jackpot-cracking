@@ -1,6 +1,6 @@
 # Ум, инвестиции, или умение инвестировать?
 
-![image-2](https://github.com/taiga-labs/jackpot-cracking/assets/105946529/f666ff90-f2e1-4365-846a-2b2a69661909)
+<img src="https://github.com/taiga-labs/jackpot-cracking/assets/105946529/f666ff90-f2e1-4365-846a-2b2a69661909" width="200" height="200">
 
 ## Смарт-контракт казино
 
@@ -71,5 +71,5 @@ Taiga Labs
 
 ## Логи
 
-![image7](https://github.com/taiga-labs/jackpot-cracking/assets/105946529/06e57a02-11b4-4bb2-98cd-a8c823ed91c2)
+<img2 src="https://github.com/taiga-labs/jackpot-cracking/assets/105946529/06e57a02-11b4-4bb2-98cd-a8c823ed91c2" width="200" height="200">
 
